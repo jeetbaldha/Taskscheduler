@@ -12,7 +12,7 @@ class Task
 {
 public:
     std::string name;
-    int timeRequired; // Changed from delay to timeRequired
+    int timeRequired;
     Task(const std::string& n, int t) : name(n), timeRequired(t) {}
 };
 
