@@ -1,4 +1,4 @@
-# Taskshedular
+# Taskschedular
 Simple Timer-Based Task Scheduler in C++
 #include <iostream>
 #include <vector>
